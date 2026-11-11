@@ -46,6 +46,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sacktumbun-dotcom&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sacktumbun-dotcom&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sacktumbun-dotcom&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+
+
+---
+
+<div align="center">
+
+💬 *Open for research collaborations, academic exchanges, and technology discussions.*
+
+</div>
 
